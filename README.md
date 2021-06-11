@@ -6,15 +6,12 @@ Welcome, here you'll find the slides and complementary info about our MDOYVR 202
 
 ##### **Virtual MDOYVR21 ** - stream date: 2021-06-11 20:45 MESZ / 11:45 PDT (UTC -7):
 
-![Useful techniques for a successful Santa deployment](img/session_intro.png)
-
+![Live drawing](img/MacDevOpsYVR_drawing.jpg)
 
 ### _"Useful techniques for a successful Santa deployment"_
 
 - Find the MDOYVR 2021 session on YouTube [here](https://www.youtube.com/channel/UCIZgKKNrG-ty72Bez8b2qHg)
 - Download our MDOYVR21 session slides [here](./pdf/MDOYVR21_santa_deployment.pdf).
-
-![Live drawing](img/MacDevOpsYVR_drawing.jpg)
 
 ## Who are we ?
 
@@ -47,3 +44,7 @@ We have created [IDent](https://www.ident.help) as a custom solution to improve 
 
 - `jq` <https://stedolan.github.io/jq/>
 - `yq` - <https://github.com/mikefarah/yq>
+
+---
+
+![Useful techniques for a successful Santa deployment](img/session_intro.png)
