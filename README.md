@@ -35,6 +35,10 @@ We have created [IDent](https://www.ident.help) as a custom solution to improve 
 
 ---
 
+## Santa - mobileconfig
+
+- Santa deployment - [example mobileconfig files](https://github.com/google/santa/tree/ad1868a50fb88b7741e596f6ddf26843921edd27/docs/deployment)
+
 ## Workshop
 
 - Link to the Zentral Workshop 2021-06-09 [here](https://www.youtube.com/watch?v=1clfgMV0qSg&t=1462s)
