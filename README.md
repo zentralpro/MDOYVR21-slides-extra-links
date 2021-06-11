@@ -14,7 +14,7 @@ Welcome, here you'll find the slides and complementary info about our MDOYVR 202
 - Find the MDOYVR 2021 session on YouTube [here](https://www.youtube.com/channel/UCIZgKKNrG-ty72Bez8b2qHg)
 - Download our MDOYVR21 session slides [here](./pdf/MDOYVR21_santa_deployment.pdf).
 
-
+![Live drawing](img/MacDevOpsYVR_drawing.jpg)
 
 ## Who are we ?
 
