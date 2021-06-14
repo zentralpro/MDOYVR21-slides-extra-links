@@ -10,7 +10,7 @@ Welcome, here you'll find the slides and complementary info about our MDOYVR 202
 
 ### _"Useful techniques for a successful Santa deployment"_
 
-- Find the MDOYVR 2021 session on YouTube [here](https://www.youtube.com/channel/UCIZgKKNrG-ty72Bez8b2qHg)
+- Find the MDOYVR 2021 session on YouTube [here](https://www.youtube.com/watch?v=bojJFAFxkOY&list=PLOpBG-mD9ZjGUqexCPJaMr2NAl4MV-nn6&index=21)
 - Download our MDOYVR21 session slides [here](./pdf/MDOYVR21_santa_deployment.pdf).
 
 ## Who are we ?
@@ -38,7 +38,7 @@ We have created [IDent](https://www.ident.help) as a custom solution to improve 
 
 ## Workshop
 
-- Link to the Zentral Workshop 2021-06-09 [here](https://www.youtube.com/watch?v=1clfgMV0qSg&t=1462s)
+- Link to the Zentral Workshop 2021-06-09 [here](https://www.youtube.com/watch?v=1clfgMV0qSg&list=PLOpBG-mD9ZjGUqexCPJaMr2NAl4MV-nn6)
 
 ## Tools
 
