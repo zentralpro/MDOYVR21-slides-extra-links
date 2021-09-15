@@ -24,7 +24,7 @@ We have created [IDent](https://www.ident.help) as a custom solution to improve 
 ## Links
 
 
-- Santa Documentation - <https://santa.readthedocs.io>
+- Santa Documentation - <https://santa.dev>
 - Zentral Documentation - <https://docs.zentral.io>
 - Santa project - <https://github.com/google/santa> 
 - Zentral open source project - <https://github.com/zentralopensource/zentral>
